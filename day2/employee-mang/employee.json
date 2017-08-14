@@ -1,0 +1,17 @@
+[{
+    "Name"  : "L Arun",
+    "DOB"   : "16-08-1976",
+    "Address": "No.56, Kumaran Nagar,Saidapet,Chennai"
+},
+{   "Name"  : "S.Iniyavan",
+    "DOB"   : "20-10-1978",
+    "Address": "No.43,Bharathi Nagar,Tambaram,chennai"
+},{
+    "Name"  : "K.Admerin",
+    "DOB"   : "12-09-1987",
+    "Address": "No.6 Lakshmi Nagar,Kodambakkam,Chennai"
+},{
+    "Name"  : "T.Gunaseelan",
+    "DOB"   : "26-08-1983",
+    "Adress": "No.4/53,Jana Street,Kunrathur,Chennai"
+}]
